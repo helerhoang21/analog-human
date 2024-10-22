@@ -1,2 +1,2 @@
 const core = (a, b) => a * b
-exports.core = AudioParam
+exports.core
