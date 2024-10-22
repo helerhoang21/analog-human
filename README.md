@@ -1,38 +1,5 @@
-## Analog's Contracts
+# core-math
 
-**This repository contains all the necessary ingredients for successful cross-chain development utilizing the Analog General Message Passing protocol.**
+Một thư viện giúp bạn tính nhân của 2 số bất kỳ
 
-## Dependencies
-
-This project uses **Forge** Ethereum testing framework (like Truffle, Hardhat and DappTools).
-Install instructions: https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-## License
-
-Analog's Contracts is released under the [MIT License](LICENSE).
+Đơn giản, dễ dùng, cực kỳ nhẹ
